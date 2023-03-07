@@ -1,0 +1,10 @@
+.bgimg {
+    background-image: 
+      url("https://static.vecteezy.com/system/resources/thumbnails/011/047/529/small_2x/smartphone-and-mobile-phone-free-png.png");
+    min-height: 680px;
+    min-width: 500;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
